@@ -1,0 +1,5 @@
+﻿n,k,tnsr,structure,estimator
+1000,2,0.5,ar1,_true
+1000,2,0.5,ar1,_naive
+1000,2,0.5,ar1,_rck
+1000,2,0.5,ar1,_rcu
